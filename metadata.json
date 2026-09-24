@@ -1,0 +1,6 @@
+{
+  "name": "EngineGuard AI",
+  "description": "Stop unexpected failures before they stop production. High-precision turbofan Remaining Useful Life (RUL) prognostic dashboard and predictive maintenance platform powered by NASA C-MAPSS telemetry and physics-guided AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
